@@ -15,7 +15,7 @@
   <artifactId>orderdesk</artifactId>
   <version>0.1.0</version>
   <name>orderdesk</name>
-  <description>OrderDesk Spring Boot service (deploy & support assessment)</description>
+  <description>OrderDesk Spring Boot service (deploy &amp; support assessment)</description>
 
   <properties>
     <java.version>17</java.version>

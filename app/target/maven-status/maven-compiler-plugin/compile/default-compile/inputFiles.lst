@@ -1,0 +1,17 @@
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\domain\Customer.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\domain\OrderEntity.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\CustomerController.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\dto\OrderResponse.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\repository\CustomerRepository.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\OrderDeskApplication.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\dto\CreateOrderRequest.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\service\OrderService.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\service\CustomerService.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\dto\CustomerResponse.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\service\StatsService.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\dto\CreateCustomerRequest.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\domain\OrderStatus.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\OrderController.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\StatsController.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\repository\OrderRepository.java
+C:\Users\talon\Desktop\progess_soft\OrderDisk25\app\src\main\java\com\example\orderdesk\web\dto\DailyStatsResponse.java
