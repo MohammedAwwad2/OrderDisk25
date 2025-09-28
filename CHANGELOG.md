@@ -13,3 +13,4 @@
 - Verified DB tables and seed data present.
 - Deployed app and NGINX reverse proxy with Docker Compose; NGINX routes `http://localhost` to app on port 8080.
 - Scaled app to 2 replicas with Docker Compose; NGINX load-balances requests across replicas.
+- minimal GitHub Actions to build and  push the image
