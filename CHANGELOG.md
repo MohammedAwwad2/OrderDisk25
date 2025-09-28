@@ -12,5 +12,4 @@
 - Deployed PostgreSQL database with Docker Compose, applied migrations and seed data using Flyway.
 - Verified DB tables and seed data present.
 - Deployed app and NGINX reverse proxy with Docker Compose; NGINX routes `http://localhost` to app on port 8080.
-- Verified health endpoint (`/actuator/health`) and CRUD endpoints (`/orders/stats/daily`, POST `/customers`, POST `/orders`).
 - Scaled app to 2 replicas with Docker Compose; NGINX load-balances requests across replicas.
