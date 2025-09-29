@@ -72,4 +72,5 @@
 ## Notes
 
 - All commands and endpoints are tested with curl and Postman.
+- Nginx uses round-robin for load balancing
 

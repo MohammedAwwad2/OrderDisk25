@@ -31,9 +31,10 @@ services:
       JAVA_OPTS: -Dserver.port=8080 
       SPRING_FLYWAY_ENABLED: "false"
       SPRING_JPA_HIBERNATE_DDL_AUTO: none
+ 
 
   flyway:
-    image: flyway/flyway
+    image: flyway/flyway:latest
     depends_on:
       db:
         condition: service_healthy

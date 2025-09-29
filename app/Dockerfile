@@ -19,4 +19,4 @@ EXPOSE 8080
 
 USER spring:spring
 
-ENTRYPOINT ["java", "-jar", "/app/app.jar"]
+ENTRYPOINT ["java", "-jar", "/app/app.jar"] 
